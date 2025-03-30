@@ -1,4 +1,5 @@
 # Demo-repo
-This is my first repository on GitHub.<br>
-Author-Rik Chakraborty
+This is my first repository on GitHub.
+git <br
+Author - Rik Chakraborty (Aot)
 
